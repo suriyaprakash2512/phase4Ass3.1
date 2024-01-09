@@ -1,0 +1,11 @@
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\bin\Debug\net6.0\UserLoginLib.deps.json
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\bin\Debug\net6.0\UserLoginLib.dll
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\bin\Debug\net6.0\UserLoginLib.pdb
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\UserLoginLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\UserLoginLib.AssemblyInfoInputs.cache
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\UserLoginLib.AssemblyInfo.cs
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\UserLoginLib.csproj.CoreCompileInputs.cache
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\UserLoginLib.dll
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\refint\UserLoginLib.dll
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\UserLoginLib.pdb
+D:\phase 4\Day3\Assessment3.1\UserLoginLib\obj\Debug\net6.0\ref\UserLoginLib.dll
